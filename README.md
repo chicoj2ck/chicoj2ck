@@ -12,13 +12,9 @@
 
 <br>
 
-- Desarrollador Web FullStack, con conocimientos adicionales de Ciberseguridad ofensiva y Cloud Computing (GCP).
-- Con más conocimientos desde el Backend, pero actualmente estoy aprendiendo Frontend.
-- El stack tecnológico que utilicé recientemente (Proyecto Capstone) fue:
-- Backend -> FastAPI y .NET 8 con SQLModel y Entity Framework como ORMs
-- Frontend -> React con la librería de componentes Material UI(MUI). 
-- Actualmente estoy abierto oportunidades de trabajo.
-<!--  - Playing CTF's at spare time in [Hack The Box](https://www.hackthebox.com/) and [PortSwigger](https://portswigger.net/).-->
+- Desarrollador Frontend con conocimientos de Backend.
+- Manejo de conocimintos técnicos de Ciberseguridad ofensiva y Cloud Computing (GCP)
+- En constante aprendizaje ...
 
 
 <br>
@@ -41,9 +37,9 @@
     
 - **Frameworks**:
 
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
